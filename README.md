@@ -1,2 +1,2 @@
-# Practica-1-C-
+# Practicas-de-C#
 La primera practica de C#
